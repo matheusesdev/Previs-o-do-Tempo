@@ -41,7 +41,7 @@ Se desejar contribuir com melhorias para este aplicativo, sinta-se à vontade pa
 
 ## Autor
 
-Este aplicativo foi desenvolvido por [Matheus Santos].
+Este aplicativo foi desenvolvido por [Matheus Santos](https://www.linkedin.com/in/matheusessantos/).
 
 ## Licença
 
